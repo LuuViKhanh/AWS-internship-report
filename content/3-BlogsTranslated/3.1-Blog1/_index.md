@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 3.1. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only, please **do not copy verbatim** for your report including this warning.
-{{% /notice %}}
+
 
 # **Centralized Multi-Account Application Resilience Assessment Using AWS Resilience Hub**
 
