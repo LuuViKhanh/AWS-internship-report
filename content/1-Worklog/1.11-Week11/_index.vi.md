@@ -19,11 +19,11 @@ pre: " <b> 1.11. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2   | -Tham dự sự kiện AWS Cloud Mastery Series #2                                                                                           | 11/08/2025   | 11/08/2025      |
-| 3   | - Tiếp tục làm project <br>&emsp; + Gặp lỗi Sandbox Timeout <br>&emsp; +  Tăng timeout lên 1 phút <br>&emsp; + Đã giải quyết được lỗi và hiện ra dữ liệu <br>                                             | 12/08/2025   | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Tham dự sự kiện chuyên đề về Edge Network Services và làm hands-on workshop     | 13/08/2025   | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Tiếp tục làm project <br>&emsp; + Nghiên cứu và tìm cách tích hợp x-ray và cloudwatch log vào project <br>&emsp;                      | 14/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - Tiếp tục làm project <br>&emsp; + Phối hợp với bên database để kết nối dữ liệu  <br>&emsp; +  Gặp loi java.lang.IllegalArgumentException: Boolean string was not 'true' or 'false': 1" <br>&emsp; + Sửa các boolean thành integer <br> Đã hết loi                                                                                           | 15/08/2025   | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 2   | -Tham dự sự kiện AWS Cloud Mastery Series #2                                                                                           | 17/11/2025   | 17/11/2025      | [AWS Cloud Mastery Series #2](https://luma.com/39t066sy?tk=wsHT4E)|
+| 3   | - Tiếp tục làm project <br>&emsp; + Gặp lỗi Sandbox Timeout <br>&emsp; +  Tăng timeout lên 1 phút <br>&emsp; + Đã giải quyết được lỗi và hiện ra dữ liệu <br>                                             | 18/11/2025   | 18/11/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 4   | - Tham dự sự kiện chuyên đề về Edge Network Services và làm hands-on workshop     | 19/11/2025   | 19/11/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 5   | - Tiếp tục làm project <br>&emsp; + Nghiên cứu và tìm cách tích hợp x-ray và cloudwatch log vào project <br>&emsp;                      | 20/11/2025   | 20/11/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 6   | - Tiếp tục làm project <br>&emsp; + Phối hợp với bên database để kết nối dữ liệu  <br>&emsp; +  Gặp loi java.lang.IllegalArgumentException: Boolean string was not 'true' or 'false': 1" <br>&emsp; + Sửa các boolean thành integer <br> Đã hết loi                                                                                           | 21/11/2025   | 21/11/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
 
 ### Kết quả đạt được tuần 11:

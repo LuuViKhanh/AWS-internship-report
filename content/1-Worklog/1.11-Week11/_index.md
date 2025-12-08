@@ -19,11 +19,11 @@ pre: " <b> 1.11. </b> "
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- | --------------- | ----------------------------------------- |
-| 2   | - Attend AWS Cloud Mastery Series #2 event                                                                                                   | 11/08/2025 | 11/08/2025      |  |
-| 3   | - Continue working on project <br>&emsp; + Encountered Sandbox Timeout error <br>&emsp; + Increased timeout to 1 minute <br>&emsp; + Successfully resolved error and displayed data                                              | 12/08/2025 | 12/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 4   | - Attend specialized event on Edge Network Services and do hands-on workshop | 13/08/2025 | 13/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 5   | - Continue working on project <br>&emsp; + Research and find ways to integrate X-Ray and CloudWatch logs into project                            | 14/08/2025 | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
-| 6   | - Continue working on project <br>&emsp; + Coordinate with database team to connect data <br>&emsp; + Encountered error: java.lang.IllegalArgumentException: Boolean string was not 'true' or 'false': 1 <br>&emsp; + Fixed by changing boolean to integer <br> Error resolved                                                                                     | 15/08/2025 | 15/08/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 2   | - Attend AWS Cloud Mastery Series #2 event                                                                                                   | 17/11/2025 | 17/11/2025      |  |
+| 3   | - Continue working on project <br>&emsp; + Encountered Sandbox Timeout error <br>&emsp; + Increased timeout to 1 minute <br>&emsp; + Successfully resolved error and displayed data                                              | 18/11/2025 | 18/11/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 4   | - Attend specialized event on Edge Network Services and do hands-on workshop | 19/11/2025 | 19/11/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 5   | - Continue working on project <br>&emsp; + Research and find ways to integrate X-Ray and CloudWatch logs into project                            | 20/11/2025 | 21/11/2025      | <https://cloudjourney.awsstudygroup.com/> |
+| 6   | - Continue working on project <br>&emsp; + Coordinate with database team to connect data <br>&emsp; + Encountered error: java.lang.IllegalArgumentException: Boolean string was not 'true' or 'false': 1 <br>&emsp; + Fixed by changing boolean to integer <br> Error resolved                                                                                     | 21/11/2025 | 21/11/2025      | <https://cloudjourney.awsstudygroup.com/> |
 
 
 ### Week 11 Achievements:
