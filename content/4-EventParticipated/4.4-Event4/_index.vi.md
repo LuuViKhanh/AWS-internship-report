@@ -22,7 +22,7 @@ pre: " <b> 4.4. </b> "
 - **Nguyen Gia Hung** –  Head of Solutions Architect Amazon Web Services Viet Nam
 
 #### Defense from public threat: AWS WAF & Application Protection
-- **Julian Lu** –
+- **Julian Lu** –Sr. Edge Specialist Solutions Architect at Amazon Web Services (AWS)
 
 
 

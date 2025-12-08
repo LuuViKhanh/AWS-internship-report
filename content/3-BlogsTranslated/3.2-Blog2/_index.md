@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 3.2. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only, please **do not copy verbatim** for your report including this warning.
-{{% /notice %}}
+
 
 # **Implement a USDC bridge on AWS**
 

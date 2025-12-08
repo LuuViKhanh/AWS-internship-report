@@ -6,9 +6,7 @@ chapter: false
 pre: " <b> 4. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** for your report, including this warning.
-{{% /notice %}}
+
 
 > In this section, you should list and describe in detail the events you have participated in during your internship or work experience.  
 > 
@@ -82,10 +80,10 @@ During my internship, I participated in six events. Each one was a memorable exp
 
 
 ### [Event 6](4.6-Event6/)  
-&emsp;**Event Name:** [Event Name 6]
+&emsp;**Event Name:** BUILDING AGENTIC AI - Context Optimization with Amazon Bedrock
 
-&emsp;**Date & Time:** [Date & Time]  
-
+&emsp;**Date & Time:** 9:00 AM, December 5, 2025
+  
 &emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
 
 &emsp;**Role:** Attendee
