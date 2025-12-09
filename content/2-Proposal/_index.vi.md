@@ -1,5 +1,5 @@
 ---
-title: "Proposal"
+title: "Bản đề xuất"
 date: 2025-09-09
 weight: 2
 chapter: false
