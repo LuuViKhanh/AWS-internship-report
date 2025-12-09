@@ -31,7 +31,7 @@ Tải file mẫu CSV từ [đây](/files/database02.zip).
 
 1. **Truy cập dịch vụ DynamoDB**
    - Vào **AWS Management Console** → tìm **DynamoDB**.
-   - Chọn **Tables** → click vào bảng ví dụ: `Products`.
+   - Chọn **Tables** → nhấp vào bảng ví dụ: `Products`.
 
 ![test_4](/images/5-Workshop/2.prerequisite/test_4.png)
 
