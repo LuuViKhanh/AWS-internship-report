@@ -60,8 +60,8 @@ Tải và cài đặt [Postman](https://dl.pstmn.io/download/latest/win64) trư�
 Key: `Content-Type` | Value: `application/json`
 - Tab **Authorization**:
    - Type: AWS Signature
-   - Nhap AccessKey
-   - Nhap SecretKey
+   - Nhập AccessKey
+   - Nhập SecretKey
    - AWS Region: ap-southeast-1
    - Service Name: execute-api
 

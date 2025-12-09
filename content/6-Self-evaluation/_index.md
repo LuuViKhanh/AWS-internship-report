@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Throughout my internship at **AWS Vietnam** from **September 8th** to **[end date]**, I had the opportunity to learn, practice, and apply the knowledge I acquired at university to a real working environment.
+Throughout my internship at **AWS Vietnam** from **September 8th** to **November 28**, I had the opportunity to learn, practice, and apply the knowledge I acquired at university to a real working environment.
 
 I participated in **a project building an e-commerce website specializing in selling products for pet birds**, through which I improved my skills in **programming, analysis, report writing, workplace communication, and self-learning**.
 
