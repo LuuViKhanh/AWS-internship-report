@@ -10,11 +10,11 @@ pre: " <b> 1.8. </b> "
 
 ### Mục tiêu tuần 8:
 
-* Ôn tập toàn diện các dịch vụ AWS cho kỳ thi chứng chỉ.
+* Ôn tập toàn diện các dịch vụ AWS cho kỳ thi giữa kỳ.
 * Nắm vững Load Balancing, Auto Scaling và S3 concepts.
 * Ôn lại Global Infrastructure và Cloud Monitoring.
 * Nắm chắc VPC, Security & Compliance concepts.
-* Chuẩn bị và tham gia kỳ thi chứng chỉ AWS.
+* Chuẩn bị và tham gia kỳ thi giữa kỳ.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
@@ -88,9 +88,9 @@ pre: " <b> 1.8. </b> "
   * Hiểu Savings Plans và cost optimization
   * Nắm chắc Cost Explorer, Budgets và tagging
 
-* **Chuẩn bị thi chứng chỉ:**
+* **Chuẩn bị thi giữa kỳ:**
   * Làm đề thi thử và ôn tập liên tục
-  * Tham gia kỳ thi chứng chỉ ca 2
+  * Tham gia kỳ thi giữa kỳ ca 2
   * Review lại các bài đã làm và rút kinh nghiệm
   * Đánh giá kết quả và xác định điểm cần cải thiện
 
