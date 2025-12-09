@@ -10,7 +10,7 @@ pre: " <b> 1.9. </b> "
 
 ### Week 9 Objectives:
 
-* Continue reviewing and consolidating knowledge after the exam.
+* Continue reviewing and consolidating knowledge after the midterm.
 * Start implementing the final course project with serverless services.
 * Set up Lambda Trigger and integrate with S3.
 * Build API Gateway and connect with Lambda and DynamoDB.
@@ -29,8 +29,8 @@ pre: " <b> 1.9. </b> "
 ### Week 9 Achievements:
 
 * **Reviewed and consolidated knowledge:**
-  * Continued reviewing exam questions to consolidate knowledge
-  * Reinforced basic AWS concepts after the exam
+  * Continued reviewing midterm questions to consolidate knowledge
+  * Reinforced basic AWS concepts after the midterm
   * Identified weak points that need improvement
   * Prepared knowledge for practical project implementation
 

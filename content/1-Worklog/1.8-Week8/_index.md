@@ -10,11 +10,11 @@ pre: " <b> 1.8. </b> "
 
 ### Week 8 Objectives:
 
-* Comprehensive review of AWS services for certification exam.
+* Comprehensive review of AWS services for midterm exam.
 * Master Load Balancing, Auto Scaling and S3 concepts.
 * Review Global Infrastructure and Cloud Monitoring.
 * Master VPC, Security & Compliance concepts.
-* Prepare for and take AWS certification exam.
+* Prepare for and take AWS midterm exam.
 
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |
@@ -88,8 +88,8 @@ pre: " <b> 1.8. </b> "
   * Understood Savings Plans and cost optimization
   * Mastered Cost Explorer, Budgets and tagging
 
-* **Certification exam preparation:**
+* **Midterm exam preparation:**
   * Completed practice exams and continuous review
-  * Participated in certification exam session 2
+  * Participated in midterm exam session 2
   * Reviewed completed exercises and learned from experience
   * Evaluated results and identified areas for improvement

@@ -25,9 +25,9 @@ Thông thường và cũng là tiêu chuẩn, một worklog được thực hi�
 
 **Tuần 6:** [Tối ưu chi phí EC2 với Lambda, quản lý tài nguyên với Tag, IAM Permission Boundary và mã hóa với AWS KMS](1.6-week6/)
 
-**Tuần 7:** [Hoàn thiện kiến trúc dự án, IAM Role & Condition, ôn tập Database và chuẩn bị thi chứng chỉ AWS](1.7-week7/)
+**Tuần 7:** [Hoàn thiện kiến trúc dự án, IAM Role & Condition, ôn tập Database và chuẩn bị thi giữa kỳ AWS](1.7-week7/)
 
-**Tuần 8:** [Ôn tập toàn diện các dịch vụ AWS, Load Balancing, S3, VPC, Security và tham gia kỳ thi chứng chỉ](1.8-week8/)
+**Tuần 8:** [Ôn tập toàn diện các dịch vụ AWS, Load Balancing, S3, VPC, Security và tham gia kỳ thi giữa kỳ](1.8-week8/)
 
 **Tuần 9:** [Bắt đầu triển khai dự án với Lambda Trigger, API Gateway, DynamoDB và làm workshop framework](1.9-week9/)
 

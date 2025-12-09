@@ -24,9 +24,9 @@ Typically, and as a standard, a worklog is carried out over about 3 months (thro
 
 **Week 6:** [Optimizing EC2 costs with Lambda, managing resources with Tags, IAM Permission Boundary, and encryption with AWS KMS](1.6-week6/)
 
-**Week 7:** [Finalizing project architecture, IAM Role & Condition, reviewing Database concepts, and preparing for AWS certification](1.7-week7/)
+**Week 7:** [Finalizing project architecture, IAM Role & Condition, reviewing Database concepts, and preparing for midterm](1.7-week7/)
 
-**Week 8:** [Comprehensive review of AWS services, Load Balancing, S3, VPC, Security, and taking the certification exam](1.8-week8/)
+**Week 8:** [Comprehensive review of AWS services, Load Balancing, S3, VPC, Security, and taking the midterm exam](1.8-week8/)
 
 **Week 9:** [Starting project implementation with Lambda Trigger, API Gateway, DynamoDB, and building workshop framework](1.9-week9/)
 

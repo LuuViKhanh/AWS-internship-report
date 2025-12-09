@@ -14,7 +14,7 @@ pre: " <b> 1.7. </b> "
 * Enhance knowledge of IAM Role and Condition policies.
 * Review and deepen knowledge of Database services.
 * Review basic concepts of Cloud Computing and IAM.
-* Master EC2 and Storage concepts for certification exam.
+* Master EC2 and Storage concepts for midterm exam.
 
 ### Tasks to be carried out this week:
 | Day | Task                                                                                                                                                                                                   | Start Date | Completion Date | Reference Material                        |

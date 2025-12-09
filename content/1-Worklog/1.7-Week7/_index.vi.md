@@ -14,7 +14,7 @@ pre: " <b> 1.7. </b> "
 * Nâng cao kiến thức về IAM Role và Condition policies.
 * Ôn tập và nâng sâu kiến thức về Database services.
 * Ôn lại các khái niệm cơ bản về Cloud Computing và IAM.
-* Nắm vững EC2 và Storage concepts cho kỳ thi chứng chỉ.
+* Nắm vững EC2 và Storage concepts cho kỳ thi giữa kỳ.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
