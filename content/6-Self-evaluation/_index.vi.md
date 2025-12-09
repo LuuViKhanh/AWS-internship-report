@@ -8,7 +8,7 @@ pre: " <b> 6. </b> "
 
 
 
-Trong suốt thời gian thực tập tại **AWS Vietnam** từ **8/9** đến **[ngày kết thúc]**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
+Trong suốt thời gian thực tập tại **AWS Vietnam** từ **8/9** đến **28/11**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
 Tôi đã tham gia **Một dự án xây dựng website thương mại điện tử chuyên bán các sản phẩm dành cho chim cảnh**, qua đó cải thiện kỹ năng **lập trình, phân tích, viết báo cáo, giao tiếp trong công việc, và kỹ năng tự học.**.  
 
 Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ, tuân thủ nội quy, và tích cực trao đổi với đồng nghiệp để nâng cao hiệu quả công việc.
