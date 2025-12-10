@@ -9,7 +9,7 @@ pre: " <b> 4.5. </b> "
 
 ### Mục đích của sự kiện
 - Workshop được tổ chức nhằm giúp người tham dự hiểu sâu về Security Pillar trong AWS Well-Architected Framework và cách xây dựng hệ thống cloud an toàn, kiểm soát được truy cập, giám sát liên tục, bảo vệ dữ liệu và phản ứng sự cố hiệu quả. Các mục tiêu chính:
-  - Hiểu rõ vai trò của Security trong kiến trúc cloud hiện đại.
+  - Hiểu thêm vai trò của Security trong kiến trúc cloud hiện đại.
   - Nắm các nguyên tắc cốt lõi như Least Privilege, Zero Trust, Defense in Depth.
   - Hiểu Shared Responsibility Model và top threats trong môi trường cloud tại Việt Nam.
   - Tìm hiểu 5 Pillars quan trọng: IAM, Detection, Infrastructure Protection, Data Protection, Incident Response.
@@ -97,7 +97,7 @@ Diễn giả nhấn mạnh 3 nguyên tắc cốt lõi:
 ---
 
 ### Kết quả đạt được
-- Hiểu rõ vai trò của Security trong AWS Well-Architected và cách áp dụng 5 pillars vào hệ thống thực tế.
+- Hiểu thêm vai trò của Security trong AWS Well-Architected và cách áp dụng 5 pillars vào hệ thống thực tế.
 - Nắm được mô hình IAM hiện đại với Identity Center, SCP và Permission Boundaries.
 - Được xem cách sử dụng các dịch vụ phát hiện sự cố như GuardDuty, CloudTrail và Security Hub.
 - Có hiểu biết thực tế về quy trình Incident Response và cách automation bằng Lambda/Step Functions. 

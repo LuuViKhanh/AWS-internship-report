@@ -67,7 +67,7 @@ Flyora delivers a responsive, category-driven shopping experience with secure us
 ### 4. Technical Implementation
 
 #### Phases:
-1. **AWS Learning & Setup** – Master AWS services and architecture design
+1. **AWS Learning & Setup** – Learn AWS services and architecture design
 2. **Development & Integration** – Build frontend and connect AWS backend
 3. **Testing & Deployment** – Complete testing and production release
 
@@ -88,7 +88,7 @@ Flyora delivers a responsive, category-driven shopping experience with secure us
 
 | Phase                    | Duration   | Key Milestones                           |
 |--------------------------|------------|------------------------------------------|
-| **Month 1: AWS Learning**| 4 weeks    | • AWS fundamentals mastered<br>• Architecture designed<br>• Database schema created |
+| **Month 1: AWS Learning**| 4 weeks    | • AWS fundamentals learned<br>• Architecture designed<br>• Database schema created |
 | **Month 2: Development** | 4 weeks    | • Frontend UI completed<br>• Lambda functions built<br>• API Gateway configured |
 | **Month 3: Integration** | 4 weeks    | • Full system integration<br>• Testing completed<br>• Production deployment |
 

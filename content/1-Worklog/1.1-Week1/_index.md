@@ -13,7 +13,7 @@ pre: " <b> 1.1. </b> "
 * Learn foundational knowledge about AWS and cloud computing.
 * Set up and configure AWS Free Tier account.
 * Learn how to draw AWS architecture and use management tools.
-* Master AWS networking concepts (VPC, networking).
+* Get familiar with AWS networking concepts (VPC, networking).
 * Practice creating and managing basic VPC.
 
 ### Tasks to be carried out this week:
@@ -28,10 +28,10 @@ pre: " <b> 1.1. </b> "
 
 ### Week 1 Achievements:
 
-* **Mastered foundational AWS knowledge:**
+* **Learned foundational AWS knowledge:**
   * Understood cloud computing concepts and AWS benefits
   * Learned about AWS global infrastructure (Regions, AZs)
-  * Grasped AWS Services management tools
+  * Learned about AWS Services management tools
   * Understood how to start cloud journey and optimize costs
 
 * **Successfully set up AWS account:**
@@ -44,7 +44,7 @@ pre: " <b> 1.1. </b> "
   * Created and configured various Budget types: Cost, Usage, RI, Saving Plans
   * Set up cost alerts for budget control
 
-* **Mastered AWS networking knowledge:**
+* **Got familiar with AWS networking knowledge:**
   * Understood Amazon VPC and its components
   * Learned about VPC peering, Transit Gateway
   * Explored VPN, Direct Connect, and Elastic Load Balancing

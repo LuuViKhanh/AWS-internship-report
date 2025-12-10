@@ -12,7 +12,7 @@ pre: " <b> 4.2. </b> "
 
 - Introduce an overview of AWS's AI/ML/GenAI ecosystem.
 - Provide an overview of Managed AI Services on AWS, their uses, and pricing models.
-- Master Prompt Engineering techniques applied to real-world use cases.
+- Learn Prompt Engineering techniques applied to real-world use cases.
 - Explore Retrieval-Augmented Generation (RAG) architecture.
 - Introduce Foundation Models and popular types of Foundation Models (FMs).
 
@@ -52,7 +52,7 @@ pre: " <b> 4.2. </b> "
 
 ### Personal Experience and Lessons Learned
 
-- **Prompting Techniques:** Most impressed with **zero-shot, few-shot, and CoT** techniques, helping me clearly understand how to deploy GenAI in real projects.
+- **Prompting Techniques:** Most impressed with **zero-shot, few-shot, and CoT** techniques, helping me learn more about how to deploy GenAI in real projects.
 - **Hands-on Demo with Bedrock:** Helped visualize the end-to-end process of building and deploying AI.
 - **Mini Kahoot:** Reinforced knowledge on the spot, helping remember important steps and prompt techniques longer.
 - **Networking:** Connected with the AWS community and learned from local experts, expanding collaboration opportunities.
@@ -63,10 +63,10 @@ Attending the workshop **"AI/ML/GenAI on AWS – Generative AI with Amazon Bedro
 
 #### Learning from AWS Experts
 - AWS speakers shared many practical perspectives on selecting Foundation Models, designing RAG architecture, and operating GenAI in enterprises.
-- Clear illustrative examples helped me better understand how to apply GenAI to real-world problems like document analysis, chatbot creation, or business process automation.
+- Clear illustrative examples helped me learn more about how to apply GenAI to real-world problems like document analysis, chatbot creation, or business process automation.
 
 #### Discovering AWS Tools & Services
-- Direct experience with Amazon Bedrock and Guardrails helped me clearly understand how AWS supports safe and efficient GenAI deployment.
+- Direct experience with Amazon Bedrock and Guardrails helped me learn more about how AWS supports safe and efficient GenAI deployment.
 - I also learned how to leverage available AI services like Rekognition, Comprehend, Transcribe, or Textract to quickly solve computer vision and NLP needs.
 
 #### Connecting and Exchanging

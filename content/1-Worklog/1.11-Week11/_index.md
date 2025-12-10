@@ -39,7 +39,7 @@ pre: " <b> 1.11. </b> "
   * Encountered Sandbox Timeout error when running Lambda functions
   * Increased timeout to 1 minute to resolve the issue
   * Successfully resolved error and displayed data
-  * Mastered how to configure timeout for AWS Lambda
+  * Learned how to configure timeout for AWS Lambda
 
 * **Researched monitoring and logging integration:**
   * Researched how to integrate AWS X-Ray into project

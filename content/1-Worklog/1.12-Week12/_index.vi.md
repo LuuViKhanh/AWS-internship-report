@@ -50,7 +50,7 @@ pre: " <b> 1.12 </b> "
   * Sửa bên frontend để xử lý CORS
   * Thêm vào method OPTIONS: Access-Control-Allow-Methods -> 'GET,POST,PUT,DELETE,OPTIONS'
   * Đã giải quyết hoàn toàn vấn đề CORS
-  * Nắm vững cách cấu hình CORS cho API Gateway
+  * Học cách cấu hình CORS cho API Gateway
 
 * **Viết workshop và quản lý source code:**
   * Viết workshop cho dự án để hướng dẫn người khác

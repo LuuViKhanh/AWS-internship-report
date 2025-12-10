@@ -9,7 +9,7 @@ pre: " <b> 4.4. </b> "
 
 ### Event Purpose
 - The workshop was organized to provide participants with a comprehensive view of how to optimize and protect web systems through AWS edge services. Main objectives:
-   - Clearly understand challenges when operating Internet applications at scale.
+   - Learn more about challenges when operating Internet applications at scale.
    - Learn how Amazon CloudFront addresses performance, cost, and security issues.
    - Explore CloudFront's core features and operational mechanisms.
    - Discover security services such as AWS WAF, AWS Shield, and Bot Control.
@@ -94,9 +94,9 @@ The workshop opened by analyzing common issues businesses typically face:
 
 ### Results Achieved
 
-- Clearly understood the critical role of the edge layer in modern Internet application architecture — not only for accelerating content delivery but also for creating an effective defense layer.
+- Learned more about the critical role of the edge layer in modern Internet application architecture — not only for accelerating content delivery but also for creating an effective defense layer.
 - Able to explain and deploy architecture models where CloudFront serves as the entry point for all web applications, helping optimize performance and increase security levels.
-- Clearly understood how AWS Shield works and can effectively apply it to protect applications from DDoS attacks without complex configuration.
+- Learned more about how AWS Shield works and can effectively apply it to protect applications from DDoS attacks without complex configuration.
 - Grasped the coordination mechanism between CloudFront – WAF – Shield to create a comprehensive, resilient, and cost-effective defense layer.
 
 ---

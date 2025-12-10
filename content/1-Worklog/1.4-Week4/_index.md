@@ -10,7 +10,7 @@ pre: " <b> 1.4. </b> "
 
 ### Week 4 Objectives:
 
-* Master in-depth knowledge of AWS storage services.
+* Learn knowledge of AWS storage services.
 * Practice deploying AWS Backup with advanced features.
 * Learn how to use VM Import/Export for migration.
 * Deploy File Storage Gateway for hybrid cloud.
@@ -28,14 +28,14 @@ pre: " <b> 1.4. </b> "
 
 ### Week 4 Achievements:
 
-* **Mastered in-depth knowledge of Storage Services:**
+* **Learned knowledge of Storage Services:**
   * Understood overview of AWS storage services
-  * Mastered Amazon S3 Access Points and Storage Classes
+  * Learned about Amazon S3 Access Points and Storage Classes
   * Understood S3 Static Website, CORS, Control Access
   * Learned about Object Key optimization and Performance tuning
   * Explored Amazon Glacier for long-term storage
   * Learned about Snow Family for data migration
-  * Mastered Storage Gateway and AWS Backup services
+  * Got familiar with Storage Gateway and AWS Backup services
 
 * **Deployed advanced AWS Backup:**
   * Created S3 Bucket for backup storage
@@ -45,7 +45,7 @@ pre: " <b> 1.4. </b> "
   * Monitored and checked backup operations
   * Cleaned up resources and managed costs
 
-* **Mastered VM Import/Export:**
+* **Learned VM Import/Export:**
   * Prepared and packaged virtual machines from on-premises
   * Exported virtual machines from on-premise environment
   * Uploaded virtual machines to AWS S3
@@ -67,5 +67,5 @@ pre: " <b> 1.4. </b> "
 * **Participated in AI-Driven Development event:**
   * Learned about AI-Driven Development Life Cycle
   * Understood how AI is changing Software Engineering
-  * Grasped new trends in software development
+  * Learned about new trends in software development
   * Connected with developer community and shared experiences

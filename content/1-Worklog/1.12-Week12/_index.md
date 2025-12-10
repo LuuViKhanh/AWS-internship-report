@@ -51,7 +51,7 @@ pre: " <b> 1.12. </b> "
   * Fixed on frontend side to handle CORS
   * Added to OPTIONS method: Access-Control-Allow-Methods -> 'GET,POST,PUT,DELETE,OPTIONS'
   * Completely resolved CORS issue
-  * Mastered how to configure CORS for API Gateway
+  * Learned how to configure CORS for API Gateway
 
 * **Wrote workshop and managed source code:**
   * Wrote workshop for the project to guide others
@@ -63,7 +63,7 @@ pre: " <b> 1.12. </b> "
 * **Attended event and learned about Security:**
   * Attended AWS Cloud Mastery Series #3 event
   * Learned about AWS Well-Architected Security Pillar
-  * Grasped best practices for security on AWS
+  * Learned about best practices for security on AWS
   * Applied security knowledge to practical projects
   * Updated knowledge about security compliance and governance
 

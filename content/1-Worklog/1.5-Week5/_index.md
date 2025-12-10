@@ -13,7 +13,7 @@ pre: " <b> 1.5. </b> "
 * Deploy and manage Amazon FSx for Windows File Server.
 * Work in teams and plan for the final course project.
 * Research and design architecture for the project.
-* Master AWS security and identity management services.
+* Learn about AWS security and identity management services.
 * Practice with AWS Security Hub.
 
 ### Tasks to be carried out this week:
@@ -49,9 +49,9 @@ pre: " <b> 1.5. </b> "
   * Identified components and connections between them
   * Ensured architecture follows AWS best practices
 
-* **Mastered AWS security services:**
+* **Learned about AWS security services:**
   * Understood AWS Shared Responsibility Model
-  * Mastered Amazon Identity and Access Management (IAM)
+  * Learned about Amazon Identity and Access Management (IAM)
   * Learned about Amazon Cognito for user authentication
   * Studied AWS Organizations for multi-account management
   * Learned about AWS Identity Center (SSO)

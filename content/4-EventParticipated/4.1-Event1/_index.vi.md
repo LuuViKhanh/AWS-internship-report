@@ -12,7 +12,7 @@ pre: " <b> 4.1. </b> "
 
 ### Mục Đích Của Sự Kiện
 
-Sự kiện [AWS GenAI Builder Club] AI-Driven Development Life Cycle được tổ chức với mục tiêu giúp người tham dự hiểu rõ hơn về cách trí tuệ nhân tạo (AI) đang thay đổi toàn bộ quy trình phát triển phần mềm hiện đại.
+Sự kiện [AWS GenAI Builder Club] AI-Driven Development Life Cycle được tổ chức với mục tiêu giúp người tham dự hiểu thêm về cách trí tuệ nhân tạo (AI) đang thay đổi toàn bộ quy trình phát triển phần mềm hiện đại.
 Cụ thể, chương trình nhằm:
 
 - Giới thiệu phương pháp AI-DLC (AI-Driven Life Cycle) – một mô hình mới tích hợp AI vào từng giai đoạn của vòng đời phát triển phần mềm.
@@ -90,7 +90,7 @@ AI có thể sinh ý tưởng, viết code, và kiểm thử, nhưng con ngườ
 
 #### Học hỏi từ các diễn giả có chuyên môn cao
 - Các diễn giả đến từ AWS và các tổ chức công nghệ lớn đã chia sẻ **best practices** trong thiết kế ứng dụng hiện đại.
-- Qua các case study thực tế, tôi hiểu rõ hơn cách áp dụng **Domain-Driven Design (DDD)** và **Event-Driven Architecture** vào các project lớn.
+- Qua các case study thực tế, tôi hiểu thêm cách áp dụng **Domain-Driven Design (DDD)** và **Event-Driven Architecture** vào các project lớn.
 
 
 

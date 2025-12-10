@@ -8,7 +8,7 @@ pre: " <b> 4.3. </b> "
 ## Báo cáo sự kiện AWS Cloud Mastery Series #2 – DevOps on AWS
 
 ### Mục đích của sự kiện
-- Xây dựng tư duy DevOps hiện đại và hiểu rõ văn hoá DevOps.  
+- Xây dựng tư duy DevOps hiện đại và hiểu thêm văn hoá DevOps.  
 - Học và thực hành quy trình **CI/CD** triển khai trên AWS. 
 - Hướng dẫn sử dụng hạ tầng dưới dạng mã (Infrastructure as Code). 
 - Nắm được và Nâng cao khả năng quan sát hệ thống thông qua các kỹ thuật **Monitoring & Observability** trên AWS, gồm CloudWatch và AWS X-Ray.  
@@ -77,10 +77,10 @@ pre: " <b> 4.3. </b> "
 ---
 
 ### Kết quả đạt được
-- Hiểu vững DevOps mindset và nắm được bức tranh tổng thể của quy trình CI/CD, từ kiểm soát mã nguồn đến triển khai đa môi trường.
+- Hiểu thêm DevOps mindset và nắm được bức tranh tổng thể của quy trình CI/CD, từ kiểm soát mã nguồn đến triển khai đa môi trường.
 - Có thể tự thiết kế và xây dựng một pipeline chuẩn, dựa trên mô hình đã được minh họa trong workshop, để áp dụng trực tiếp vào dự án nhóm.
 - Sử dụng thành thạo CloudWatch và X-Ray để theo dõi hệ thống, phân tích lỗi, xác định bottleneck và tối ưu hiệu năng dịch vụ.  
-- Trang bị nền tảng kiến thức và tư duy đúng hướng để tiếp tục phát triển chuyên sâu trong vai trò DevOps Engineer hoặc Cloud Engineer.  
+  
 
 ---
 
