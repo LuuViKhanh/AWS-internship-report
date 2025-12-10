@@ -12,7 +12,7 @@ pre: " <b> 1.6. </b> "
 
 * Optimize EC2 costs using AWS Lambda and automation.
 * Manage resources efficiently with Tags and Resource Groups.
-* Master access management with AWS IAM and Resource Tags.
+* Learn about access management with AWS IAM and Resource Tags.
 * Practice permission restrictions with IAM Permission Boundary.
 * Deploy data encryption with AWS KMS.
 
@@ -59,7 +59,7 @@ pre: " <b> 1.6. </b> "
   * Tested and checked limited IAM User
   * Understood how Permission Boundary works
   * Cleaned up resources and policies
-  * Mastered security best practices
+  * Learned about security best practices
 
 * **Encrypted data with AWS KMS:**
   * Created IAM Policy and Role for KMS

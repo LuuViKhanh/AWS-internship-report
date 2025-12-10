@@ -17,11 +17,11 @@ Thông thường và cũng là tiêu chuẩn, một worklog được thực hi�
 
 **Tuần 2:** [Triển khai và quản lý Amazon EC2, Route 53 Resolver, VPC Peering và Transit Gateway](1.2-week2/)
 
-**Tuần 3:** [Nắm vững EC2, triển khai AWS Backup, File Storage Gateway và bắt đầu với Amazon S3](1.3-week3/)
+**Tuần 3:** [Học EC2, triển khai AWS Backup, File Storage Gateway và bắt đầu với Amazon S3](1.3-week3/)
 
-**Tuần 4:** [Nắm vững Storage Services, AWS Backup nâng cao, VM Import/Export và tham gia sự kiện AI-Driven Development](1.4-week4/)
+**Tuần 4:** [Học Storage Services, AWS Backup nâng cao, VM Import/Export và tham gia sự kiện AI-Driven Development](1.4-week4/)
 
-**Tuần 5:** [Triển khai Amazon FSx, làm việc nhóm, thiết kế kiến trúc dự án và nắm vững AWS Security Services](1.5-week5/)
+**Tuần 5:** [Triển khai Amazon FSx, làm việc nhóm, thiết kế kiến trúc dự án và học AWS Security Services](1.5-week5/)
 
 **Tuần 6:** [Tối ưu chi phí EC2 với Lambda, quản lý tài nguyên với Tag, IAM Permission Boundary và mã hóa với AWS KMS](1.6-week6/)
 

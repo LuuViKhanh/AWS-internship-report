@@ -16,11 +16,11 @@ Typically, and as a standard, a worklog is carried out over about 3 months (thro
 
 **Week 2:** [Deploying and managing Amazon EC2, Route 53 Resolver, VPC Peering, and Transit Gateway](1.2-week2/)
 
-**Week 3:** [Mastering EC2, implementing AWS Backup, File Storage Gateway, and getting started with Amazon S3](1.3-week3/)
+**Week 3:** [Learning EC2, implementing AWS Backup, File Storage Gateway, and getting started with Amazon S3](1.3-week3/)
 
-**Week 4:** [Mastering Storage Services, advanced AWS Backup, VM Import/Export, and attending AI-Driven Development event](1.4-week4/)
+**Week 4:** [Learning Storage Services, advanced AWS Backup, VM Import/Export, and attending AI-Driven Development event](1.4-week4/)
 
-**Week 5:** [Deploying Amazon FSx, team collaboration, project architecture design, and mastering AWS Security Services](1.5-week5/)
+**Week 5:** [Deploying Amazon FSx, team collaboration, project architecture design, and learning AWS Security Services](1.5-week5/)
 
 **Week 6:** [Optimizing EC2 costs with Lambda, managing resources with Tags, IAM Permission Boundary, and encryption with AWS KMS](1.6-week6/)
 

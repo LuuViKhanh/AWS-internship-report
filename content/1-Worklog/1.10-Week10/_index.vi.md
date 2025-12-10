@@ -60,7 +60,7 @@ pre: " <b> 1.10. </b> "
   * Thêm maven-shade-plugin vào Maven configuration
   * Thêm AWS Lambda core và event dependencies
   * Đã sửa được lỗi và Lambda hoạt động ổn định
-  * Nắm vững cách package Java applications cho AWS Lambda
+  * Học cách package Java applications cho AWS Lambda
 
 * **Tham dự sự kiện và học hỏi:**
   * Tham dự sự kiện AWS Cloud Mastery Series #1

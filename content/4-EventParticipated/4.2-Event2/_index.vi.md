@@ -59,7 +59,7 @@ pre: " <b> 4.2. </b> "
 ---
 
 ### Trải nghiệm và bài học cá nhân
-- **Prompting Techniques:** Ấn tượng nhất với các kỹ thuật **zero-shot, few-shot, CoT**, giúp tôi hiểu rõ cách triển khai GenAI trong các dự án thực tế.  
+- **Prompting Techniques:** Ấn tượng nhất với các kỹ thuật **zero-shot, few-shot, CoT**, giúp tôi hiểu thêm cách triển khai GenAI trong các dự án thực tế.  
 - **Hands-on Demo với Bedrock:** Giúp hình dung quy trình xây dựng và triển khai AI end-to-end.  
 - **Mini Khoot:** Củng cố kiến thức ngay tại chỗ, giúp nhớ lâu hơn về các bước quan trọng và kỹ thuật prompt.  
 - **Networking:** Kết nối với cộng đồng AWS và học hỏi từ các chuyên gia trong nước, mở rộng cơ hội hợp tác.  
@@ -70,10 +70,10 @@ Tham dự workshop **“AI/ML/GenAI on AWS – Generative AI with Amazon Bedrock
 
 #### Học hỏi từ các chuyên gia **AWS**
 - Các diễn giả từ AWS đã chia sẻ nhiều góc nhìn thực tế về việc lựa chọn Foundation Model, thiết kế kiến trúc RAG và vận hành GenAI trong doanh nghiệp.
-- Những ví dụ minh họa rõ ràng giúp tôi hiểu hơn cách áp dụng GenAI vào các bài toán thực tiễn như phân tích tài liệu, tạo chatbot, hay tự động hóa nghiệp vụ.
+- Những ví dụ minh họa rõ ràng giúp tôi hiểu thêm cách áp dụng GenAI vào các bài toán thực tiễn như phân tích tài liệu, tạo chatbot, hay tự động hóa nghiệp vụ.
 
 #### Khám phá công cụ & dịch vụ AWS
-- Trải nghiệm trực tiếp với Amazon Bedrock và Guardrails giúp tôi hiểu rõ cách AWS hỗ trợ triển khai GenAI an toàn và hiệu quả.
+- Trải nghiệm trực tiếp với Amazon Bedrock và Guardrails giúp tôi hiểu thêm cách AWS hỗ trợ triển khai GenAI an toàn và hiệu quả.
 - Tôi cũng học được cách tận dụng các dịch vụ AI có sẵn như Rekognition, Comprehend, Transcribe hoặc Textract để giải quyết nhanh các nhu cầu về thị giác máy tính và NLP.
 
 #### Kết nối và trao đổi

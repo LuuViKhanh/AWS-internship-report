@@ -39,7 +39,7 @@ pre: " <b> 1.11. </b> "
   * Gặp lỗi Sandbox Timeout khi chạy Lambda functions
   * Tăng timeout lên 1 phút để giải quyết vấn đề
   * Đã giải quyết được lỗi và hiện thị dữ liệu thành công
-  * Nắm vững cách cấu hình timeout cho AWS Lambda
+  * Học cách cấu hình timeout cho AWS Lambda
 
 * **Nghiên cứu tích hợp monitoring và logging:**
   * Nghiên cứu cách tích hợp AWS X-Ray vào project

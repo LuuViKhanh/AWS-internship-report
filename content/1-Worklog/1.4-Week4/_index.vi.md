@@ -10,7 +10,7 @@ pre: " <b> 1.4. </b> "
 
 ### Mục tiêu tuần 4:
 
-* Nắm vững kiến thức chuyên sâu về các dịch vụ lưu trữ AWS.
+* Tìm hiểu kiến thức về các dịch vụ lưu trữ AWS.
 * Thực hành triển khai AWS Backup với các tính năng nâng cao.
 * Học cách sử dụng VM Import/Export để migration.
 * Triển khai File Storage Gateway cho hybrid cloud.
@@ -28,14 +28,14 @@ pre: " <b> 1.4. </b> "
 
 ### Kết quả đạt được tuần 4:
 
-* **Nắm vững kiến thức chuyên sâu về Storage Services:**
+* **Tìm hiểu kiến thức về Storage Services:**
   * Hiểu tổng quan về các dịch vụ lưu trữ trên AWS
-  * Nắm vững Amazon S3 Access Points và Storage Classes
+  * Học về Amazon S3 Access Points và Storage Classes
   * Hiểu S3 Static Website, CORS, Control Access
   * Biết về Object Key optimization và Performance tuning
   * Tìm hiểu Amazon Glacier cho long-term storage
   * Học về Snow Family cho data migration
-  * Nắm vững Storage Gateway và AWS Backup services
+  * Làm quen với Storage Gateway và AWS Backup services
 
 * **Triển khai AWS Backup nâng cao:**
   * Tạo S3 Bucket cho backup storage
@@ -67,7 +67,7 @@ pre: " <b> 1.4. </b> "
 * **Tham gia sự kiện AI-Driven Development:**
   * Tìm hiểu về AI-Driven Development Life Cycle
   * Hiểu cách AI đang thay đổi Software Engineering
-  * Nắm được các xu hướng mới trong phát triển phần mềm
+  * Tìm hiểu các xu hướng mới trong phát triển phần mềm
   * Kết nối với cộng đồng developer và chia sẻ kinh nghiệm
 
 

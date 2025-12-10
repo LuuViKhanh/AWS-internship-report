@@ -12,7 +12,7 @@ pre: " <b> 1.6. </b> "
 
 * Tối ưu hóa chi phí EC2 sử dụng AWS Lambda và automation.
 * Quản lý tài nguyên hiệu quả bằng Tag và Resource Groups.
-* Nắm vững quản lý truy cập với AWS IAM và Resource Tags.
+* Tìm hiểu quản lý truy cập với AWS IAM và Resource Tags.
 * Thực hành giới hạn quyền với IAM Permission Boundary.
 * Triển khai mã hóa dữ liệu với AWS KMS.
 
@@ -59,7 +59,7 @@ pre: " <b> 1.6. </b> "
   * Kiểm tra và test IAM User giới hạn
   * Hiểu cách Permission Boundary hoạt động
   * Dọn dẹp tài nguyên và policies
-  * Nắm vững security best practices
+  * Tìm hiểu security best practices
 
 * **Mã hóa dữ liệu với AWS KMS:**
   * Tạo IAM Policy và Role cho KMS

@@ -13,7 +13,7 @@ pre: " <b> 1.1. </b> "
 * Tìm hiểu kiến thức nền tảng về AWS và điện toán đám mây.
 * Thiết lập và cấu hình tài khoản AWS Free Tier.
 * Học cách vẽ kiến trúc AWS và sử dụng các công cụ quản lý.
-* Nắm vững các khái niệm về mạng AWS (VPC, networking).
+* Làm quen với các khái niệm về mạng AWS (VPC, networking).
 * Thực hành tạo và quản lý VPC cơ bản.
 
 ### Các công việc cần triển khai trong tuần này:
@@ -28,10 +28,10 @@ pre: " <b> 1.1. </b> "
 
 ### Kết quả đạt được tuần 1:
 
-* **Nắm vững kiến thức nền tảng AWS:**
+* **Tìm hiểu kiến thức nền tảng AWS:**
   * Hiểu khái niệm điện toán đám mây và lợi ích của AWS
   * Biết về hạ tầng toàn cầu của AWS (Regions, AZs)
-  * Nắm được các công cụ quản lý AWS Services
+  * Học về các công cụ quản lý AWS Services
   * Hiểu cách bắt đầu hành trình lên mây và tối ưu hóa chi phí
 
 * **Thiết lập tài khoản AWS thành công:**
@@ -44,7 +44,7 @@ pre: " <b> 1.1. </b> "
   * Tạo và cấu hình các loại Budget: Cost, Usage, RI, Saving Plans
   * Thiết lập cảnh báo chi phí để kiểm soát ngân sách
 
-* **Nắm vững kiến thức mạng AWS:**
+* **Làm quen với kiến thức mạng AWS:**
   * Hiểu về Amazon VPC và các thành phần
   * Biết về VPC peering, Transit Gateway
   * Tìm hiểu VPN, Direct Connect và Elastic Load Balancing

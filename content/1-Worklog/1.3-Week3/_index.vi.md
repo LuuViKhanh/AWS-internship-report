@@ -10,7 +10,7 @@ pre: " <b> 1.3. </b> "
 
 ### Mục tiêu tuần 3:
 
-* Nắm vững kiến thức sâu về Amazon EC2 và các thành phần liên quan.
+* Tìm hiểu kiến thức sâu về Amazon EC2 và các thành phần liên quan.
 * Triển khai AWS Backup cho việc bảo vệ dữ liệu hệ thống.
 * Thực hành File Storage Gateway để kết nối on-premises và cloud.
 * Bắt đầu với Amazon S3 và các tính năng cơ bản.
@@ -28,9 +28,9 @@ pre: " <b> 1.3. </b> "
 
 ### Kết quả đạt được tuần 3:
 
-* **Nắm vững kiến thức sâu về Amazon EC2:**
+* **Tìm hiểu kiến thức sâu về Amazon EC2:**
   * Hiểu các loại Instance types và cách chọn phù hợp
-  * Nắm vững AMI, Backup strategies và Key Pair management
+  * Học về AMI, Backup strategies và Key Pair management
   * Hiểu Elastic Block Store (EBS) và các loại volume
   * Biết về Instance Store và sự khác biệt với EBS
   * Sử dụng User Data để tự động hóa cấu hình

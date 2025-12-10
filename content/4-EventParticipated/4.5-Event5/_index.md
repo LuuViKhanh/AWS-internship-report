@@ -9,8 +9,8 @@ pre: " <b> 4.5. </b> "
 
 ### Event Purpose
 - The workshop was organized to help participants gain deep understanding of the Security Pillar in the AWS Well-Architected Framework and how to build secure cloud systems with controlled access, continuous monitoring, data protection, and effective incident response. Main objectives:
-  - Clearly understand the role of Security in modern cloud architecture.
-  - Master core principles such as Least Privilege, Zero Trust, and Defense in Depth.
+  - Learn more about the role of Security in modern cloud architecture.
+  - Learn core principles such as Least Privilege, Zero Trust, and Defense in Depth.
   - Understand the Shared Responsibility Model and top threats in Vietnam's cloud environment.
   - Explore 5 important Pillars: IAM, Detection, Infrastructure Protection, Data Protection, and Incident Response.
   - Practice policy analysis, building guardrails, logging, monitoring, and simulating incident scenarios.
@@ -103,7 +103,7 @@ Speakers emphasized 3 core principles:
 
 ### Results Achieved
 
-- Clearly understood the role of Security in AWS Well-Architected and how to apply the 5 pillars to real systems.
+- Learned more about the role of Security in AWS Well-Architected and how to apply the 5 pillars to real systems.
 - Grasped modern IAM models with Identity Center, SCP, and Permission Boundaries.
 - Learned how to use incident detection services like GuardDuty, CloudTrail, and Security Hub.
 - Gained practical understanding of Incident Response processes and automation using Lambda/Step Functions.

@@ -13,7 +13,7 @@ pre: " <b> 1.5. </b> "
 * Triển khai và quản lý Amazon FSx for Windows File Server.
 * Làm việc nhóm và lên kế hoạch cho dự án cuối khóa.
 * Tìm hiểu và thiết kế kiến trúc cho dự án.
-* Nắm vững các dịch vụ bảo mật và quản lý danh tính AWS.
+* Tìm hiểu các dịch vụ bảo mật và quản lý danh tính AWS.
 * Thực hành với AWS Security Hub.
 
 ### Các công việc cần triển khai trong tuần này:
@@ -49,9 +49,9 @@ pre: " <b> 1.5. </b> "
   * Xác định các thành phần và kết nối giữa chúng
   * Đảm bảo kiến trúc tuân theo AWS best practices
 
-* **Nắm vững các dịch vụ bảo mật AWS:**
+* **Tìm hiểu các dịch vụ bảo mật AWS:**
   * Hiểu Shared Responsibility Model của AWS
-  * Nắm vững Amazon Identity and Access Management (IAM)
+  * Học về Amazon Identity and Access Management (IAM)
   * Tìm hiểu Amazon Cognito cho user authentication
   * Học về AWS Organizations cho multi-account management
   * Biết về AWS Identity Center (SSO)

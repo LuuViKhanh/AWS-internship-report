@@ -11,9 +11,9 @@ pre: " <b> 1.8. </b> "
 ### Week 8 Objectives:
 
 * Comprehensive review of AWS services for midterm exam.
-* Master Load Balancing, Auto Scaling and S3 concepts.
+* Review Load Balancing, Auto Scaling and S3 concepts.
 * Review Global Infrastructure and Cloud Monitoring.
-* Master VPC, Security & Compliance concepts.
+* Review VPC, Security & Compliance concepts.
 * Prepare for and take AWS midterm exam.
 
 ### Tasks to be carried out this week:
@@ -28,48 +28,48 @@ pre: " <b> 1.8. </b> "
 
 ### Week 8 Achievements:
 
-* **Mastered Load Balancing & Auto Scaling:**
+* **Reviewed Load Balancing & Auto Scaling:**
   * Understood Scalability & High Availability concepts
   * Distinguished between Vertical Scalability and Horizontal Scalability
-  * Mastered Load Balancing and Auto Scaling Group
+  * Reviewed Load Balancing and Auto Scaling Group
   * Understood different Load Balancer types and use cases
-  * Mastered Auto Scaling policies and strategies
+  * Reviewed Auto Scaling policies and strategies
 
 * **Reviewed Amazon S3 & Storage:**
-  * Mastered S3 Use cases, security, Bucket Policies
+  * Reviewed S3 Use cases, security, Bucket Policies
   * Understood S3 Versioning and lifecycle management
-  * Mastered S3 Storage Classes and cost optimization
+  * Reviewed S3 Storage Classes and cost optimization
   * Explored AWS Snow Family for data migration
   * Understood AWS Storage Gateway Framework
 
 * **Reviewed Databases & Analytics:**
-  * Mastered AWS RDS and its features
+  * Reviewed AWS RDS and its features
   * Understood Amazon Aurora and performance benefits
   * Explored Amazon ElastiCache for caching
-  * Mastered DynamoDB NoSQL concepts
+  * Reviewed DynamoDB NoSQL concepts
   * Understood Amazon Redshift for data warehousing
 
-* **Mastered Global Infrastructure:**
+* **Reviewed Global Infrastructure:**
   * Understood why global applications are needed
-  * Mastered Amazon Route 53 DNS service
+  * Reviewed Amazon Route 53 DNS service
   * Understood AWS CloudFront CDN
   * Explored AWS Global Accelerator
 
 * **Reviewed Cloud Monitoring:**
-  * Mastered Amazon CloudWatch monitoring
+  * Reviewed Amazon CloudWatch monitoring
   * Understood AWS CloudTrail for auditing
   * Explored AWS X-Ray for tracing
   * Learned about AWS Status and Personal Health Dashboard
 
-* **Mastered VPC & Networking:**
+* **Reviewed VPC & Networking:**
   * Understood VPC & Subnets concepts
-  * Mastered Internet Gateway and NAT Gateway
+  * Reviewed Internet Gateway and NAT Gateway
   * Distinguished between Network ACL and Security Groups
   * Understood VPC Peering, Endpoints, Site-to-Site VPN
   * Explored Direct Connect and Transit Gateway
 
 * **Reviewed Security & Compliance:**
-  * Mastered AWS Shared Responsibility Model
+  * Reviewed AWS Shared Responsibility Model
   * Understood AWS Shield, WAF, KMS, CloudHSM
   * Explored Certificate Manager and Secrets Manager
   * Learned about AWS Artifact, GuardDuty, Inspector
@@ -77,16 +77,16 @@ pre: " <b> 1.8. </b> "
 
 * **Reviewed Other Compute Services:**
   * Understood ECS and ECR for containers
-  * Mastered AWS Fargate serverless containers
+  * Reviewed AWS Fargate serverless containers
   * Reviewed AWS Lambda and API Gateway
   * Understood Serverless architecture patterns
 
 * **Account Management & Billing:**
-  * Mastered AWS Organizations
+  * Reviewed AWS Organizations
   * Understood Service Control Policies (SCP)
   * Explored Consolidated Billing and Pricing Models
   * Understood Savings Plans and cost optimization
-  * Mastered Cost Explorer, Budgets and tagging
+  * Reviewed Cost Explorer, Budgets and tagging
 
 * **Midterm exam preparation:**
   * Completed practice exams and continuous review

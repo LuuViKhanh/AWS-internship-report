@@ -11,9 +11,9 @@ pre: " <b> 1.8. </b> "
 ### Mục tiêu tuần 8:
 
 * Ôn tập toàn diện các dịch vụ AWS cho kỳ thi giữa kỳ.
-* Nắm vững Load Balancing, Auto Scaling và S3 concepts.
+* Ôn tập Load Balancing, Auto Scaling và S3 concepts.
 * Ôn lại Global Infrastructure và Cloud Monitoring.
-* Nắm chắc VPC, Security & Compliance concepts.
+* Ôn tập VPC, Security & Compliance concepts.
 * Chuẩn bị và tham gia kỳ thi giữa kỳ.
 
 ### Các công việc cần triển khai trong tuần này:
@@ -28,48 +28,48 @@ pre: " <b> 1.8. </b> "
 
 ### Kết quả đạt được tuần 8:
 
-* **Nắm vững Load Balancing & Auto Scaling:**
+* **Ôn tập Load Balancing & Auto Scaling:**
   * Hiểu Scalability & High Availability concepts
   * Phân biệt Vertical Scalability và Horizontal Scalability
-  * Nắm vững Load Balancing và Auto Scaling Group
+  * Ôn tập Load Balancing và Auto Scaling Group
   * Hiểu các loại Load Balancer và use cases
-  * Nắm chắc Auto Scaling policies và strategies
+  * Ôn tập Auto Scaling policies và strategies
 
 * **Ôn tập Amazon S3 & Storage:**
-  * Nắm vững S3 Use cases, security, Bucket Policies
+  * Ôn tập S3 Use cases, security, Bucket Policies
   * Hiểu S3 Versioning và lifecycle management
-  * Nắm chắc S3 Storage Classes và cost optimization
+  * Ôn tập S3 Storage Classes và cost optimization
   * Tìm hiểu AWS Snow Family cho data migration
   * Hiểu AWS Storage Gateway Framework
 
 * **Ôn tập Databases & Analytics:**
-  * Nắm vững AWS RDS và các tính năng
+  * Ôn tập AWS RDS và các tính năng
   * Hiểu Amazon Aurora và performance benefits
   * Tìm hiểu Amazon ElastiCache cho caching
-  * Nắm chắc DynamoDB NoSQL concepts
+  * Ôn tập DynamoDB NoSQL concepts
   * Hiểu Amazon Redshift cho data warehousing
 
-* **Nắm vững Global Infrastructure:**
+* **Ôn tập Global Infrastructure:**
   * Hiểu tại sao cần global application
-  * Nắm vững Amazon Route 53 DNS service
+  * Ôn tập Amazon Route 53 DNS service
   * Hiểu AWS CloudFront CDN
   * Tìm hiểu AWS Global Accelerator
 
 * **Ôn tập Cloud Monitoring:**
-  * Nắm vững Amazon CloudWatch monitoring
+  * Ôn tập Amazon CloudWatch monitoring
   * Hiểu AWS CloudTrail cho auditing
   * Tìm hiểu AWS X-Ray cho tracing
   * Biết về AWS Status và Personal Health Dashboard
 
-* **Nắm chắc VPC & Networking:**
+* **Ôn tập VPC & Networking:**
   * Hiểu VPC & Subnets concepts
-  * Nắm vững Internet Gateway và NAT Gateway
+  * Ôn tập Internet Gateway và NAT Gateway
   * Phân biệt Network ACL và Security Groups
   * Hiểu VPC Peering, Endpoints, Site-to-Site VPN
   * Tìm hiểu Direct Connect và Transit Gateway
 
 * **Ôn tập Security & Compliance:**
-  * Nắm vững AWS Shared Responsibility Model
+  * Ôn tập AWS Shared Responsibility Model
   * Hiểu AWS Shield, WAF, KMS, CloudHSM
   * Tìm hiểu Certificate Manager và Secrets Manager
   * Biết về AWS Artifact, GuardDuty, Inspector
@@ -77,16 +77,16 @@ pre: " <b> 1.8. </b> "
 
 * **Ôn tập Other Compute Services:**
   * Hiểu ECS và ECR cho containers
-  * Nắm vững AWS Fargate serverless containers
+  * Ôn tập AWS Fargate serverless containers
   * Ôn lại AWS Lambda và API Gateway
   * Hiểu Serverless architecture patterns
 
 * **Account Management & Billing:**
-  * Nắm vững AWS Organizations
+  * Ôn tập AWS Organizations
   * Hiểu Service Control Policies (SCP)
   * Tìm hiểu Consolidated Billing và Pricing Models
   * Hiểu Savings Plans và cost optimization
-  * Nắm chắc Cost Explorer, Budgets và tagging
+  * Ôn tập Cost Explorer, Budgets và tagging
 
 * **Chuẩn bị thi giữa kỳ:**
   * Làm đề thi thử và ôn tập liên tục

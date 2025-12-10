@@ -8,10 +8,10 @@ pre: " <b> 4.3. </b> "
 ## Event Report: AWS Cloud Mastery Series #2 – DevOps on AWS
 
 ### Event Purpose
-- Build modern DevOps mindset and clearly understand DevOps culture.
+- Build modern DevOps mindset and learn more about DevOps culture.
 - Learn and practice **CI/CD** deployment processes on AWS.
 - Guide on using Infrastructure as Code (IaC).
-- Master and enhance system observability through **Monitoring & Observability** techniques on AWS, including CloudWatch and AWS X-Ray.
+- Learn and enhance system observability through **Monitoring & Observability** techniques on AWS, including CloudWatch and AWS X-Ray.
 - Participate in hands-on workshops with experts from the AWS Vietnam community.
 
 ---
@@ -79,10 +79,10 @@ pre: " <b> 4.3. </b> "
 
 ### Results Achieved
 
-- Solidly understood DevOps mindset and grasped the overall picture of CI/CD processes, from source control to multi-environment deployment.
+- Learned more about DevOps mindset and grasped the overall picture of CI/CD processes, from source control to multi-environment deployment.
 - Can independently design and build a standard pipeline based on the model demonstrated in the workshop, to apply directly to team projects.
 - Proficiently use CloudWatch and X-Ray to monitor systems, analyze errors, identify bottlenecks, and optimize service performance.
-- Equipped with foundational knowledge and proper mindset to continue developing expertise in DevOps Engineer or Cloud Engineer roles.
+
 
 ---
 

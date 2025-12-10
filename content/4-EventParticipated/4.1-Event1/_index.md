@@ -10,7 +10,7 @@ pre: " <b> 4.1. </b> "
 
 ### Event Purpose
 
-The [AWS GenAI Builder Club] AI-Driven Development Life Cycle event was organized to help participants better understand how artificial intelligence (AI) is transforming the entire modern software development process.
+The [AWS GenAI Builder Club] AI-Driven Development Life Cycle event was organized to help participants learn more about how artificial intelligence (AI) is transforming the entire modern software development process.
 
 Specifically, the program aimed to:
 
@@ -90,7 +90,7 @@ This opens up a new mindset in software development – where AI and humans co-c
 #### Learning from Highly Skilled Speakers
 
 - Speakers from AWS and major technology organizations shared **best practices** in modern application design.
-- Through real case studies, I better understood how to apply **Domain-Driven Design (DDD)** and **Event-Driven Architecture** to large projects.
+- Through real case studies, I learned more about how to apply **Domain-Driven Design (DDD)** and **Event-Driven Architecture** to large projects.
 
 #### Applying Modern Tools
 

@@ -10,7 +10,7 @@ pre: " <b> 1.3. </b> "
 
 ### Week 3 Objectives:
 
-* Master in-depth knowledge of Amazon EC2 and related components.
+* Learn knowledge of Amazon EC2 and related components.
 * Deploy AWS Backup for system data protection.
 * Practice File Storage Gateway to connect on-premises and cloud.
 * Get started with Amazon S3 and basic features.
@@ -28,9 +28,9 @@ pre: " <b> 1.3. </b> "
 
 ### Week 3 Achievements:
 
-* **Mastered in-depth knowledge of Amazon EC2:**
+* **Learned knowledge of Amazon EC2:**
   * Understood various Instance types and how to choose appropriately
-  * Mastered AMI, Backup strategies and Key Pair management
+  * Learned about AMI, Backup strategies and Key Pair management
   * Understood Elastic Block Store (EBS) and volume types
   * Learned about Instance Store and differences with EBS
   * Used User Data for configuration automation

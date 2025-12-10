@@ -60,7 +60,7 @@ pre: " <b> 1.10. </b> "
   * Added maven-shade-plugin to Maven configuration
   * Added AWS Lambda core and event dependencies
   * Successfully resolved the error and Lambda runs stably
-  * Mastered how to package Java applications for AWS Lambda
+  * Learned how to package Java applications for AWS Lambda
 
 * **Attended event and learned:**
   * Attended AWS Cloud Mastery Series #1 event

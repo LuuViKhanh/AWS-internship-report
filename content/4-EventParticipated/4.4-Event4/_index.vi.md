@@ -9,7 +9,7 @@ pre: " <b> 4.4. </b> "
 
 ### Mục đích của sự kiện
 - Workshop được tổ chức nhằm giúp người tham dự có cái nhìn toàn diện về cách tối ưu và bảo vệ hệ thống web thông qua các dịch vụ biên (edge services) của AWS. Các mục tiêu chính:
-   - Hiểu rõ thách thức khi vận hành ứng dụng Internet ở quy mô lớn.  
+   - Hiểu thêm thách thức khi vận hành ứng dụng Internet ở quy mô lớn.  
    - Giới thiệu cách Amazon CloudFront giải quyết vấn đề về hiệu năng, chi phí, và bảo mật. 
    - Tìm hiểu các tính năng cốt lõi của CloudFront và cơ chế hoạt động của nó.
    - Giới thiệu các dịch vụ bao mat như AWS WAF, AWS Shield, Bot Control.  
@@ -88,9 +88,9 @@ Workshop mở đầu bằng việc phân tích các vấn đề phổ biến mà
 ---
 
 ### Kết quả đạt được
-- Hiểu rõ vai trò quan trọng của edge layer trong kiến trúc ứng dụng Internet hiện đại — không chỉ để tăng tốc độ phân phối nội dung mà còn để tạo thành một lớp phòng thủ hiệu quả.
+- Hiểu thêm vai trò quan trọng của edge layer trong kiến trúc ứng dụng Internet hiện đại — không chỉ để tăng tốc độ phân phối nội dung mà còn để tạo thành một lớp phòng thủ hiệu quả.
 - Có thể giải thích và triển khai mô hình kiến trúc trong đó CloudFront đóng vai trò entry point cho mọi web application, giúp tối ưu performance và tăng mức độ an toàn.
-- Hiểu rõ cách AWS Shield hoạt động và áp dụng hiệu quả để bảo vệ ứng dụng khỏi các loại tấn công DDoS mà không cần cấu hình phức tạp. 
+- Hiểu thêm cách AWS Shield hoạt động và áp dụng hiệu quả để bảo vệ ứng dụng khỏi các loại tấn công DDoS mà không cần cấu hình phức tạp. 
 - Nắm được cơ chế phối hợp giữa CloudFront – WAF – Shield để tạo thành một lớp phòng thủ toàn diện, resilient và tiết kiệm chi phí.  
 
 ---
